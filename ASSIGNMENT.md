@@ -323,4 +323,4 @@ Commit every change to this repo:
 * Ensure that you filled in your user id and the other `REPLACE THIS` blocks in this md file.
 * Ensure that you also add the profiles.yml file. _Disclaimer: You should never push credentials to git in production. It's OK now as it's a private repo and an instructional setting_.
 
-Deadline: 1 Feb 2026, 11:59pm - Submission through moodle: Submit the link to your repository
+Deadline: (Up until end of **Part 8**) 1 Feb 2026, 11:59pm - Submission through moodle: Submit the link to your repository
