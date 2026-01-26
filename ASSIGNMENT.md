@@ -8,7 +8,15 @@ Build a dbt project analyzing global airport data on Snowflake.
 
 1. Copy this repository by clicking the "Use Template" button
 2. Make your repository private
-3. Get your repo running by going through one of these options:
+3. Invite collaborators so we can grade your work:
+   - Open your repository on github.com
+   - Click "Settings" (top row of tabs)
+   - In the left sidebar click "Manage access"
+   - Click "Invite teams or people" (or "Invite a collaborator")
+   - Type `zoltanctoth`, select the user, click "Add" or "Invite"
+   - Repeat for `nai-coder`
+   - Choose "Write" permission level and confirm
+4. Get your repo running by going through one of these options:
    - **Use as a Codespace**: Click "Code" > "Codespaces" > "Create codespace on main"
    - **Clone locally**: Clone your fork, then run:
      ```bash
