@@ -262,12 +262,12 @@ Create a `silver_airport_comments` model:
 * The columns of this model must be exactly the same (and in the same order) as those of `src_airport_comments`, plus the extra `loaded_at` as the last column
 
 ### Exercise 8: Update record
-Add a new record to `src_airport_comments`. Then materialize the incremental model again (but only that model).
+Add a new record to `RAW.airport_comments`. Then materialize the incremental model again (but only that model).
 
 Add your solution in the next lines:
 * Adding a new record:
   ```
-  REPLACE THIS CODE BLOCK BY PASTING THE SQL for adding a new record to `src_airport_comments`
+  REPLACE THIS CODE BLOCK BY PASTING THE SQL for adding a new record to `RAW.airport_comments`
   ```
 * Command to execute to update this model (but only this model, not all the models):
   ```
