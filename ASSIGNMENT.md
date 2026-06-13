@@ -315,13 +315,13 @@ Implement the following:
 * Test every silver table: Figure out which values are unique and should not be null (use your educated guess for not null) and add these tests
 * Find a column where an `accepted_values` test makes sense and use it
 * Make relations between the three silver tables explicit by implementing `relationships` tests. Set the severity of all relationship tests to "warn" (since referential integrity may not hold across all source data).
-* Use at least three dbt-expectations tests (in total) on these three models
+* Use at least three different dbt-expectations tests (in total) on these three models
 * Implement two singular tests
 * Add configuration to store test failures into a database table
 
 
 ## Part 9: Documentation
-* Add descriptions to the silver tables and their columns
+* Add descriptions to the silver tables and all of their columns
 * Use a '{{ doc("...") }}'-based documentation at least once
 * Create an overview.md where you discuss in a few sentences how the silver tables interconnect
 
